@@ -10,7 +10,8 @@ const Contato: React.FC = () => {
                 <input type="text" placeholder="Nome" />
                 <input type="email" placeholder="E-mail" />
                 <input type="text" placeholder="Assunto" />
-                <textarea placeholder="Mensagem"></textarea>
+                <textarea placeholder="Mensagem"></textarea>]
+                <br />
                 <button type="submit">Enviar</button>
             </form>
             <br />
