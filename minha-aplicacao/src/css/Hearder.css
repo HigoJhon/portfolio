@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    border-bottom: 1px solid #eee;
+    padding: 10px 0; /* Reduzido o padding vertical */
+    width: 100%;
+}
+
+span {
+    margin: 5px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 1em;
+    text-align: center;
+    padding: 8px 15px;
+}
+
+span:hover {
+    background-color: #eee;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

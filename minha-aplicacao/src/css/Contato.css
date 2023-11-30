@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contato {
+    border-bottom: 5px solid rgb(96, 148, 17);
+    margin: 0 10%;
+    padding: 20px;
+}
+
+h2 {
+    color: rgb(23, 209, 147);
+    text-align: center;
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form input, form textarea {
+    width: 100%;
+    background-color: #242424;
+    border: 0;
+    outline: 0;
+    padding: 30px 15px;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 18px;
+}
+
+textarea {
+    resize: none;
+    max-height: 400px;
+}
+
+button {
+    width: 125px;
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(23, 209, 147);
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
