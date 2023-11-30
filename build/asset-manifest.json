@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.64f7c0b5.css",
+    "main.js": "/portfolio/static/js/main.491ec537.js",
+    "static/media/Higo.jpeg": "/portfolio/static/media/Higo.b7ad73c12d85df8b3118.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.64f7c0b5.css.map": "/portfolio/static/css/main.64f7c0b5.css.map",
+    "main.491ec537.js.map": "/portfolio/static/js/main.491ec537.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f7c0b5.css",
+    "static/js/main.491ec537.js"
+  ]
+}
