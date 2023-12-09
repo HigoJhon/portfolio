@@ -33,7 +33,7 @@ const Projetos: React.FC = () => {
                         </p>
                         <p>
                             Para acessar o projeto clique
-                            <a href="https://github.com/HigoJhon/Padaria"> aqui!</a>
+                            <a href="https://padaria-orpin.vercel.app"> aqui!</a>
                         </p>
                     </div>
                 </div>
