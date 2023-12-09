@@ -8,7 +8,7 @@ const Inicio: React.FC = () => {
             <br />
             <div className="div-inicio">
                 <p>
-                    No meu portfolio voce vai poder naver no sobre mim, e conhecer um pouco mas como entrei no mundo da programação e conhecer minhas habilidades.
+                    No meu portfolio voce vai poder navegar no sobre mim, e conhecer um pouco mas como entrei no mundo da programação e conhecer minhas habilidades.
                     <br />
                     Ja na aba de projetos voce vai poder ver alguns dos meus projetos, tanto front-end quanto back-end. e caso queira ver o codigo fonte de algum projeto, basta clicar no link que esta na descrição do projeto.
                     <br />

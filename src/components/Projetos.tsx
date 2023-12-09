@@ -18,8 +18,8 @@ const Projetos: React.FC = () => {
                             Visualizar o total de gastos convertidos para uma moeda de escolha;
                         </p>
                         <p>
-                            Para acessar o projeto clique
-                            <a href="https://higojhon.github.io/Wallet/"> aqui!</a>
+                            Para acessar o projeto
+                            <a href="https://higojhon.github.io/Wallet/"> clique aqui!</a>
                         </p>
                     </div>
                     <br />
@@ -32,8 +32,8 @@ const Projetos: React.FC = () => {
                             Este projeto ainda encontrasse em desenvolvimento.
                         </p>
                         <p>
-                            Para acessar o projeto clique
-                            <a href="https://padaria-orpin.vercel.app"> aqui!</a>
+                            Para acessar o projeto
+                            <a href="https://padaria-orpin.vercel.app"> clique aqui!</a>
                         </p>
                     </div>
                 </div>
@@ -50,8 +50,8 @@ const Projetos: React.FC = () => {
                             <br />
                         </p>
                         <p>
-                            Para acessar o projeto clique
-                            <a href="https://github.com/HigoJhon/Futebol-Clube"> aqui!</a>
+                            Para acessar o projeto 
+                            <a href="https://github.com/HigoJhon/Futebol-Clube"> clique aqui!</a>
                         </p>
                     </div>
                     <br />
@@ -59,8 +59,8 @@ const Projetos: React.FC = () => {
                         <h4>Dragon Fight</h4>
                         <p>Neste projeto usei os principios da arquitetura SOLID e os principios de POO em uma estrutura de um jogo de RPG (Role Playing Game).</p>
                         <p>
-                            Para acessar o projeto clique
-                            <a href="https://github.com/HigoJhon/Dragon-Fight"> aqui!</a>
+                            Para acessar o projeto
+                            <a href="https://github.com/HigoJhon/Dragon-Fight"> clique aqui!</a>
                         </p>
                     </div>
                 </div>
